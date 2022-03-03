@@ -7,5 +7,5 @@ unzip $HOME/.piblox/wine.zip -d $HOME/wine
 sudo cp $HOME/.piblox/box86 /usr/local/bin/box86
 sudo mv $HOME/wine/wine /usr/local/bin/wine
 rm -rf $HOME/.wine/drive_c/Program\ Files/Roblox/*
-wine $HOME/.piblox/RBLXInstallers/studio/RobloxStudioLauncherBeta.exe
+wine $HOME/.piblox/RobloxStudioLauncherBeta.exe
 echo Roblox Installed!!
