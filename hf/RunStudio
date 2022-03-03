@@ -1,0 +1,5 @@
+#!/bin/bash
+echo PiBlox Studio Runner
+echo Notes from MakePie: this may not work xd
+echo Running Roblox Studio....
+wine $HOME/.wine/drive_c/Program\ Files/Roblox/Versions/version-*/RobloxStudioLauncherBeta.exe

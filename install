@@ -1,0 +1,3 @@
+#!/bin/bash
+mv $HOME/PiBlox/hf $HOME/.piblox
+echo installed.
