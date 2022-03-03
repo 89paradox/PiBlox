@@ -9,7 +9,14 @@ Run this command:
 Run this:
 
 ```bash $HOME/.piblox/InstallStudio```
+
 # Run Studio
 Run this:
 
 ```bash $HOME/.piblox/RunStudio```
+
+# How does it work?
+PiBlox uses Wine and Box86 to run Roblox Studio. Currently this project only supports Roblox Studio but it may support the player in the future.
+
+# Why no Roblox Player?
+Currently this project only supports Roblox Studio but it may support the player in the future.
