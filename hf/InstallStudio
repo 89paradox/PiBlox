@@ -2,7 +2,7 @@
 mkdir $HOME/wine
 echo PiBlox Studio Installer
 cd $HOME/.piblox && wget https://www.dropbox.com/s/3pkparicmagolpf/wine.zip
-mkdir $HOME/.piblox/RBLXInstallers/ && $HOME/.piblox/RBLXInstallers/studio cd $HOME/.piblox/RBLXInstallers/studio && wget https://www.dropbox.com/s/b4stm4njsfls8qp/RobloxStudioLauncherBeta.exe
+mkdir $HOME/.piblox/RBLXInstallers/ && mkdir $HOME/.piblox/RBLXInstallers/studio cd $HOME/.piblox/RBLXInstallers/studio && wget https://www.dropbox.com/s/b4stm4njsfls8qp/RobloxStudioLauncherBeta.exe
 unzip $HOME/.piblox/wine.zip -d $HOME/wine
 sudo cp $HOME/.piblox/box86 /usr/local/bin/box86
 sudo mv $HOME/wine/wine /usr/local/bin/wine
