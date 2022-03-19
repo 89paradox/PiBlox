@@ -1,3 +1,4 @@
+# WARNING: THIS PROJECT IS ARCHIVED
 # PiBlox
 A program for running roblox studio with wine and box86.
 # Install
